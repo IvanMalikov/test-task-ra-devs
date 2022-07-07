@@ -1,5 +1,11 @@
 # test-task-ra-devs
 
+# Part 1
+```
+First part of test-task is hidden in TestTaskPartOne.vue component
+The result of this tasks are displayed in browser console
+```
+
 ## Project setup
 ```
 npm install
@@ -13,11 +19,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
 ```
 
 ### Customize configuration
